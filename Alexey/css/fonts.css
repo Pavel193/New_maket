@@ -1,0 +1,13 @@
+@font-face{
+    font-family: Open Sans;
+    src: url(../fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face{
+    font-family: Merriweather;
+    src: 
+        url(../fonts/Merriweather-Black.ttf)
+        url(../fonts/Merriweather-Bold.ttf)
+        url(../fonts/Merriweather-Light.ttf)
+        url(../fonts/Merriweather-Regular.ttf)
+}
